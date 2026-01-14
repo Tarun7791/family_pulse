@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373935817784",
+    "project_id": "familypulse-28b72",
+    "storage_bucket": "familypulse-28b72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373935817784:android:ca02b2ae03f0e8b02d92cd",
+        "android_client_info": {
+          "package_name": "com.family.screentime.family_screen_time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKfmDpT_WwsWtl5TcgzjgbNXDFGBK4rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
