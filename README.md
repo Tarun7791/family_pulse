@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ FAMILY PULSE
-### Finally, a Screen Time Tracker That Matches Reality.
+### Gamified Screen Time Accountability for Modern Families.
 
 [![Download APK](https://img.shields.io/badge/Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](family-pulse.apk)
 
@@ -11,28 +11,31 @@
 
 <br/>
 
-> **"Stop Guessing, Start Knowing. Precision Screen Time Intelligence with 99% Accuracy."**
+> **"Don't just track it. Gamify it. Build healthy habits together with GitHub-style streaks."**
 
 </div>
 
-## 🎯 Why I Built Family Pulse
+## 🎯 The Core Idea: Gamified Accountability
 
-**"I built an app that helps families reduce their screen time together."**
+**"I didn't just build a tracker. I built a family habit builder."**
 
-Modern families are disconnected. We sit in the same room but live in different digital worlds. I wanted to build something that wasn't just a "spy tool" for parents, but a collaborative platform for the whole family.
+Most screen time apps are "digital police"—they restrict, block, and punish. I believe that **accountability works better than control.**
 
-My goal was simple: **Create a tool that makes digital accountability transparent, fair, and even fun.** 
+My core idea was to bring the addictive "streak" mechanics from coding platforms (like GitHub and LeetCode) into family life. 
 
-Family Pulse uses smart features like **GitHub-style streaks** and **Digital Detox Trophies** to turn screen time reduction into a team sport. It helps you stay accountable to your loved ones, not just a cold algorithm.
+**Family Pulse** shifts the dynamic from *parent vs. child* to *family vs. screen time*. 
+- **The Host sets the goal.** 
+- **The Family builds the streak.** 
+- **The Winner gets the trophy.**
+
+It’s simple, transparent, and turns digital wellbeing into a shared victory.
 
 ## 📱 UI Showcase
 
 <p align="center">
-  <img src="assets/screenshots/login.png" width="30%" alt="Premium Login UI">
+  <img src="assets/screenshots/showcase_1.png" width="45%" alt="Family Pulse Dashboard">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/leaderboard.png" width="30%" alt="Real-Time Leaderboard">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/streak.png" width="30%" alt="Consistency Streak">
+  <img src="assets/screenshots/showcase_2.png" width="45%" alt="Leaderboard & Streaks">
 </p>
 
 ## 🚀 Why Family Pulse Stands Out?
