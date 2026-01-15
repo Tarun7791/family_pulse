@@ -25,36 +25,23 @@ Modern families struggle to monitor children's screen time across multiple devic
 
 **Family Pulse solves this** with a free, open-source solution that matches Android's Digital Wellbeing accuracy.
 
-## ✨ Key Features
+## 🚀 Why Family Pulse Stands Out?
 
-### 1. **High-Precision Screen Time Tracking**
-- Uses Android's `UsageEvents` API for 99%+ accuracy
-- Event-based calculation (tracks app open/close transitions)
-- Intelligent filtering of system apps and background processes
-- Matches Digital Wellbeing statistics exactly
+### 1. 🏆 The "Digital Detox" Trophy
+**Gamifying Screen Time:** Unlike other apps that just show boring numbers, Family Pulse awards a **Golden Trophy** 🏆 to the family member with the *least* screen time each day.
+- **Healthy Competition:** Turns "get off your phone" into a fun family challenge.
+- **Instant Recognition:** The winner is highlighted on the main dashboard for everyone to see.
 
-### 2. **Real-Time Family Dashboard**
-- Live leaderboard showing all family members' usage
-- Automatic 10-minute background sync
-- Cross-device visibility (parents see children's data remotely)
-- Daily goal tracking with visual progress indicators
+### 2. 🔥 GitHub-Style "Accountability Streaks"
+**Teamwork Makes the Dream Work:** The family host sets a daily screen time limit (e.g., 2 hours).
+- **All or Nothing:** If *everyone* stays under the limit, the family earns a **Green Streak** square for the day.
+- **Visual Progress:** Just like your **GitHub contribution graph** or **LeetCode streak**, you build a visual history of your family's digital health.
+- **Collective Responsibility:** If one person slips, the streak is broken. This encourages family members to keep each other accountable!
 
-### 3. **Detailed App Breakdown**
-- Top 20 apps by usage time
-- Real app names (not package names)
-- Per-app minute tracking
-- Synced to cloud for remote viewing
-
-### 4. **Family Streak System**
-- Heatmap visualization of goal achievement
-- Collaborative family goals
-- Historical tracking with Firestore persistence
-
-### 5. **Premium Design**
-- Sleek black theme with neon accents
-- Glassmorphism UI elements
-- Smooth animations and transitions
-- Professional app icon
+### 3. ⚡ High-Precision "Reality Check" Intelligence
+**Stop Guessing, Start Knowing:** Most apps are 15-20% inaccurate because they count background processes as screen time.
+- **Event-Based Tracking:** We use the advanced `UsageEvents` API to track actual app *interactions*, matching Android's Digital Wellbeing to **99% accuracy**.
+- **Real-Time Sync:** Parents see live updates every 10 minutes without asking the child to open the app.
 
 ## 🏗️ Architecture
 
