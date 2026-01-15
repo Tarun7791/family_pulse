@@ -231,4 +231,4 @@ This project is open-source and available under the MIT License.
 
 Built by Tarun Raghuwanshi
 
-**Questions or Issues?** Open an issue on GitHub or contact [tarunraghuwanshi0932gmail.com]
+**Questions or Issues?** Open an issue on GitHub or contact [tarunraghuwanshi093@gmail.com]
