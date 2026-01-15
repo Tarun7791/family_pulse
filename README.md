@@ -30,14 +30,6 @@ My core idea was to bring the addictive "streak" mechanics from coding platforms
 
 It’s simple, transparent, and turns digital wellbeing into a shared victory.
 
-## 📱 UI Showcase
-
-<p align="center">
-  <img src="assets/screenshots/showcase_1.png" width="45%" alt="Family Pulse Dashboard">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/showcase_2.png" width="45%" alt="Leaderboard & Streaks">
-</p>
-
 ## 🚀 Why Family Pulse Stands Out?
 
 ### 1. 🏆 The "Digital Detox" Trophy
