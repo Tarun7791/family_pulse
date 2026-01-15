@@ -11,7 +11,7 @@
 
 <br/>
 
-> **"Stop Guessing, Start Knowing. The First Free, Open-Source Tracker with 99% Accuracy."**
+> **"Stop Guessing, Start Knowing. Precision Screen Time Intelligence with 99% Accuracy."**
 
 </div>
 
