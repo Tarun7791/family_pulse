@@ -1,16 +1,17 @@
 <div align="center">
 
-# 💓 FAMILY PULSE
-### Real-Time Screen Time Intelligence for Families
+# ⚡ FAMILY PULSE
+### Finally, a Screen Time Tracker That Matches Reality.
+
+[![Download APK](https://img.shields.io/badge/Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](family-pulse.apk)
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> **"Digital Wellbeing-level accuracy, now for your whole family."**
+> **"Stop Guessing, Start Knowing. The First Free, Open-Source Tracker with 99% Accuracy."**
 
 </div>
 
