@@ -15,15 +15,25 @@
 
 </div>
 
-## 🎯 Problem Statement
+## 🎯 Why I Built Family Pulse
 
-Modern families struggle to monitor children's screen time across multiple devices. Existing solutions either:
-- Require expensive subscriptions
-- Lack real-time synchronization
-- Show inaccurate data due to poor filtering
-- Don't provide detailed app-level breakdowns
+**"I built an app that helps families reduce their screen time together."**
 
-**Family Pulse solves this** with a free, open-source solution that matches Android's Digital Wellbeing accuracy.
+Modern families are disconnected. We sit in the same room but live in different digital worlds. I wanted to build something that wasn't just a "spy tool" for parents, but a collaborative platform for the whole family.
+
+My goal was simple: **Create a tool that makes digital accountability transparent, fair, and even fun.** 
+
+Family Pulse uses smart features like **GitHub-style streaks** and **Digital Detox Trophies** to turn screen time reduction into a team sport. It helps you stay accountable to your loved ones, not just a cold algorithm.
+
+## 📱 UI Showcase
+
+<p align="center">
+  <img src="assets/screenshots/login.png" width="30%" alt="Premium Login UI">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/leaderboard.png" width="30%" alt="Real-Time Leaderboard">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/streak.png" width="30%" alt="Consistency Streak">
+</p>
 
 ## 🚀 Why Family Pulse Stands Out?
 
