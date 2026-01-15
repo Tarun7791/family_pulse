@@ -242,13 +242,6 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Developer
 
-Built for [Hackathon Name] by [Your Name]
+Built by Tarun Raghuwanshi
 
-**Evaluation Criteria Met:**
-- ✅ **Functionality (50%)**: Fully working with real-time sync and accurate tracking
-- ✅ **Code Quality (25%)**: Clean architecture, proper state management, native integration
-- ✅ **Documentation (25%)**: Comprehensive README, inline comments, architecture diagrams
-
----
-
-**Questions or Issues?** Open an issue on GitHub or contact [your-email@example.com]
+**Questions or Issues?** Open an issue on GitHub or contact [tarunraghuwanshi0932gmail.com]
