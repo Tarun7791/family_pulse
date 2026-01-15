@@ -1,10 +1,18 @@
-# Family Pulse 📱
+<div align="center">
 
-> **A real-time family screen time tracker with Digital Wellbeing-level accuracy**
+# 💓 FAMILY PULSE
+### Real-Time Screen Time Intelligence for Families
 
-Family Pulse is a cross-platform mobile application that helps families monitor and manage screen time collaboratively. Built with Flutter and Firebase, it provides parents with real-time insights into their children's device usage while maintaining privacy and accuracy.
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-![Family Pulse](assets/icon.png)
+<br/>
+
+> **"Digital Wellbeing-level accuracy, now for your whole family."**
+
+</div>
 
 ## 🎯 Problem Statement
 
